@@ -64,6 +64,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/chiamed/chiamed/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+###
+
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=fayljhh9mmz1r7sm5jukk8g50" alt="Spotify Recently Played" />
 </p>
