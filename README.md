@@ -12,7 +12,7 @@
       <p data-importer="text" align="left" style="margin:0;">
         I'm Chiara, a Computer Science Master's student at the University of Trento, with a focus on Computational Foundations, Computer Vision, and Deep Learning — and a long-term interest in applying these to medical imaging and clinical contexts.<br><br>
         I'm currently exploring opportunities in academic research or applied Computer Vision, particularly in the medical domain.<br><br>
-        When I'm not coding, you can find me running, trekking in the mountains, or hanging out with my three dogs (my personal emotional support team for when my code doesn't compile! 🐕).
+        When I'm not coding, you can find me running, trekking in the mountains, or hanging out with my three dogs (my personal emotional support team for when my code doesn't compile).
       </p>
     </td>
   </tr>
