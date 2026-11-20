@@ -2,7 +2,7 @@
 
 ###
 
-<table border="0" cellpadding="0" cellspacing="0">
+<!-- <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="220" valign="top">
       <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtuMXgxM3k4ZzNsbm42d29mMWJsazBybDd3cGt5eGdpZXl5cXA4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" style="display:block; max-width:200px; height:auto;" />
@@ -12,11 +12,17 @@
       <p data-importer="text" align="left" style="margin:0;">
         I'm Chiara, a Computer Science Master's student at the University of Trento, with a focus on Computational Foundations, Computer Vision, and Deep Learning — and a long-term interest in applying these to medical imaging and clinical contexts.<br><br>
         I'm currently exploring opportunities in academic research or applied Computer Vision, particularly in the medical domain.<br><br>
-        When I'm not coding, you can find me running, trekking in the mountains, or hanging out with my three dogs (my personal emotional support team for when my code doesn't compile).
+        When I'm not coding, you can find me running, trekking in the mountains, or hanging out with my dogs.
       </p>
     </td>
   </tr>
-</table>
+</table> -->
+
+<p align="left" style="margin:0;">
+  I'm Chiara, a Computer Science Master's student at the University of Trento, with a focus on Computational Foundations, Computer Vision, and Deep Learning — and a long-term interest in applying these to medical imaging and clinical contexts.<br><br>
+  I'm currently exploring opportunities in academic research or applied Computer Vision, particularly in the medical domain.<br><br>
+  When I'm not coding, you can find me running, trekking in the mountains, or hanging out with my dogs.
+</p>
 
 ###
 
